@@ -2,6 +2,7 @@ name: Build Spring Boot project using gradle
 
 on:
   push:
+    branches:
     - main
 
 jobs:
