@@ -17,7 +17,7 @@ public class HelloWorldController {
                 + "</head>\n"
                 + "<body>\n"
                 + "\n"
-                + "<h1>Yaay!! you did it XD</h1>\n"
+                + "<h1>Yaay!! you did it XD. Great!!!</h1>\n"
                 + "\n"
                 + "</body>\n"
                 + "</html>\n";
